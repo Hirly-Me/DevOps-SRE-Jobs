@@ -4,7 +4,7 @@
 
 Open DevOps, site reliability, platform and cloud infrastructure engineering jobs.
 
-**8,722 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 13, 2026.
+**8,722 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 14, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=devops-sre-jobs&utm_content=cta) to see how it matches roles like these.
 
